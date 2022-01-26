@@ -13,5 +13,8 @@
 - git add: cho phép chúng ta chuẩn bị lưu lại thời điểm hiện tại của dự án
 + nếu lưu 1 file: git add index.html [tên file].
 + nếu lưu tất cả file: git add .
+- git reset: để hủy lưu file.
+- git commit -m 'ghi chú': chính thức lưu.
+- git log: xem lại các thời điểm chúng ta lưu file.
 
 # Định nghĩa: Github là 1 dịch vụ trên mạng để chúng ta đẩy lên dự án của mình và github sẽ chứa dự án của chúng ta đặc biệt hơn github sẽ cho phép chúng ta làm việc chung với nhau và kiểm soát được người nào đang làm cái gì trên dự án
