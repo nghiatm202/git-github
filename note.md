@@ -16,5 +16,7 @@
 - git reset: để hủy lưu file.
 - git commit -m 'ghi chú': chính thức lưu.
 - git log: xem lại các thời điểm chúng ta lưu file.
+- git log --oneline (shorthand của git log).
+- git checkout [id]: muốn quay lại 1 thời điểm nào đó.
 
 # Định nghĩa: Github là 1 dịch vụ trên mạng để chúng ta đẩy lên dự án của mình và github sẽ chứa dự án của chúng ta đặc biệt hơn github sẽ cho phép chúng ta làm việc chung với nhau và kiểm soát được người nào đang làm cái gì trên dự án
