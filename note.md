@@ -5,7 +5,8 @@
 ## Terms - danh từ
 
 - Repository (repo): 1 thư mục, dự án của chúng ta.
-- Branch: cành, nhánh
+- Branch: cành, nhánh.
+- Conflict: xung đột
 
 ## Commands - lệnh
 
