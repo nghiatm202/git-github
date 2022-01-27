@@ -6,7 +6,9 @@
 
 - Repository (repo): 1 thư mục, dự án của chúng ta.
 - Branch: cành, nhánh.
-- Conflict: xung đột
+- Conflict: xung đột.
+- Local Repository: tất cả những gì nằm trên máy tính của chúng ta (hình ảnh, video,...).
+- Remote Repository: thì ngược lại, tất cả những gì không nằm trên máy tính chúng ta mà nằm trên 1 server khác.
 
 ## Commands - lệnh
 
@@ -27,5 +29,6 @@
 - git checkout -b [branch-name]: tạo ra 1 branch mới.
 - git merge [branch-name]: muốn tổng hợp branch.
 - git branch -d [branch-name]: xóa đi 1 branch.
+- git push: đẩy local repo lên remote repo.
 
 # Định nghĩa: Github là 1 dịch vụ trên mạng để chúng ta đẩy lên dự án của mình và github sẽ chứa dự án của chúng ta đặc biệt hơn github sẽ cho phép chúng ta làm việc chung với nhau và kiểm soát được người nào đang làm cái gì trên dự án
